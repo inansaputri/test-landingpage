@@ -1,0 +1,250 @@
+.blogmudik {
+    height: 9px;
+    font-weight: 600;
+    font-style: normal;
+    text-align: right;
+    color: #261d40;
+}
+
+.download {
+    width: 70pz;
+    height: 9px;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    color: #432b87;
+    width: 110px;
+    height: 46px;
+    border-radius: 4px;
+    border: solid 2px #432b87;
+}
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 42px;
+}
+
+.nav {
+    padding: 3rem;
+}
+.hero-btn{
+	border: 1px solid #73c700;
+	background-color: #73c700;
+	color:white;
+}
+
+.row {
+	padding: 20px;
+}
+
+.bg-img {
+	width: 110%;
+}
+
+.hero-text1 {
+    X: 761px;
+	Y: 950px;
+	width: 480px;
+	height: 148px;
+	opacity: 80%;
+	font-family: SourceSansPro-Regular;
+	font-size: 18px;
+	text-align: left;
+	line-height: 30px;
+	color: rgba(57, 53, 69, 0.8);
+    float: right;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.button4{
+	border: 1px solid #73c700;
+	background-color: #73c700;
+}
+
+.hero-btn{
+	border: 1px solid #73c700;
+	background-color: #73c700;
+	color:white;
+}
+
+.logo {
+	padding: 20px;
+}
+
+.link {
+	padding: 10px;
+	color: #261d40;
+}
+
+.download1 {
+	background-color: #6cbb01;
+	color: white;
+}
+
+.main1 {
+	font-family: SourceSansPro-SemiBold;
+	margin-left: 100px;
+}
+.service{
+	font-family: sourcesanspro-semibold;
+	padding: 100px;
+	text-align: center;
+	color: #261d40;
+	margin-top: -50px;
+}
+
+.hr{
+	height: 3;
+	width: 36px;
+	margin-top: 10px;
+}
+.box-card {
+	height: 450px;
+	width: 90%;
+    margin: 0px auto;
+    margin-top: 50px;
+    background-color: #fafafa;
+
+}
+.card {
+	width: 300px;
+}
+
+.icon-people {
+    background-color: #432b87;
+    border-radius: 50px;
+    color: white;
+    margin-left: 12rem;
+    position: relative;
+}
+
+.news {
+	font-family: sourcesanspro-semibold;
+	color: #261d40;
+	margin-top: 150px;
+	position: relative;
+
+}
+
+.more {
+	color: #261d40;
+	float: right;
+	font-weight: bold;
+}
+
+.image {
+	width: 12rem;
+}
+
+.rectangle4-copy3 {
+	width: 40px;
+    height: 2px;
+    background-color: #ff7800;
+    margin-top: 2rem;
+}
+.download2 {
+	padding: 30px;
+}
+.button1 {
+	height: 45px;
+	border-radius: 4px;
+	border: 1px solid #432b87;
+	background-color: #432b87;
+	color: white;
+	text-align: center; 	
+	margin-top: 40px;
+}
+.button2{
+	margin-top: 6rem;
+	margin-left: 20rem;
+	border: 1px solid #73c700;
+	background-color: #73c700;
+	text-align: center;
+}
+.button3{
+	color: white;
+}
+.app {
+	height: 300px;
+	width: 100%;
+	margin-top: 40px;
+    background-color: #fafafa;
+ }
+.footer {
+	padding :80px 0;
+	text-align: center;
+	color: black;
+}
+
+/* responsive css */
+@media only screen and (max-width: 767px){
+	.nav-btn {
+		margin-top: -10px;
+	}
+	.main{
+		text-align: center;
+	}
+	.main1{
+		text-align: center;
+	}
+	.box {
+		height: 990px;
+		margin-top: -30px;
+	}
+	.card{
+		width: 100%;
+		position: relative;
+		margin-top: 20px;
+	}
+	.circle1 {
+		margin-left: 200px;
+	}
+	.circle2{
+		margin-left: 30px;
+	}
+	.news{
+		position: relative;
+		padding: 50px;
+		margin-top: -10px;
+	}
+	.png {
+		width: 16rem;
+	}
+	.download{
+		padding:70px;
+		text-align: center;
+	}
+	.button2{
+		height: 50px;
+		width: 200px;
+		text-align: center;
+		margin-top: -30px;
+	}
+	.app {
+		height: 500px;
+		width: 100%;
+	}
+	.footer{
+		padding: 50px 0;
+	}
+@media (max-width:991.98px) {
+     .padding {
+         padding: 1.5rem;
+     }
+ }
+
+@media (max-width:767.98px) {
+     .padding {
+         padding: 1rem;
+     }
+ }
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+}
